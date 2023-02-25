@@ -1,1 +1,156 @@
-/* Place CSS styles here */
+span {
+    color: #013b17;
+  } 
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+    text-align: center;
+}
+.header-below {
+  color: black;
+    font-family: 'Raleway', san-serif;
+    font-size: x-large;
+}
+h2,
+h3 {
+  font-family: 'Gloock', serif;
+}
+.body {
+  text-align: center;
+  background-color: grey;
+  padding: 20px 10px;
+}
+p {
+  font-family: 'Raleway', san-serif;
+}
+.footer {
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+.hours-guarantees {
+  text-align: center;
+}
+.bottom {
+  text-align: center;
+}
+.body-about {
+  text-align: center;
+  background-color: grey;
+  padding: 20px 10px;
+}
+.staff {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  padding: 20px 10px;
+}
+.owner {
+  flex: 25%;
+  padding: 20px 10px;
+}
+.bartender {
+  flex: 25%;
+  padding: 20px 10px;
+}
+.server {
+  flex: 25%;
+  padding: 20px 10px;
+}
+.general-manager {
+  flex: 25%;
+  padding: 20px 10px;
+}
+.menu-headers {
+  text-align: center;
+}
+.body-menu {
+  background-color: black;
+  color: white;
+  padding: 20px 10px;
+}
+.drinks {
+  display: flex;
+}
+.persuasion {
+  flex: 20%;
+  padding: 20px 10px;
+  text-align: center;
+}
+.hit-my-line {
+  flex: 20%;
+  padding: 20px 10px;
+  text-align: center;
+}
+.the-gem {
+  flex: 20%;
+  padding: 20px 10px;
+  text-align: center;
+}
+.rockstar-punch {
+  flex: 20%;
+  padding: 20px 10px;
+  text-align: center;
+}
+.slow-jamz {
+  flex: 20%;
+  padding: 20px 10px;
+  text-align: center;
+}
+.food {
+  display: flex;
+}
+.wings {
+  flex: 16%;
+  padding: 20px 10px;
+}
+.mozzerella-sticks {
+  flex: 16%;
+  padding: 20px 10px;
+}
+.fries {
+  flex: 16%;
+  padding: 20px 10px;
+}
+.spinach-dip {
+  flex: 16%;
+  padding: 20px 10px;
+}
+.chacuterie-board {
+  flex: 16%;
+  padding: 20px 10px;
+}
+.pretzel-bites {
+  flex: 16%;
+  padding: 20px 10px;
+}
+.dessert {
+  display: flex;
+}
+.cookie {
+  flex: 33%;
+  padding: 20px 10px;
+}
+.brownie {
+  flex: 33%;
+  padding: 20px 10px;
+}
+.cheesecake {
+  flex: 33%;
+  padding: 20px 10px;
+}
+li {
+  font-family: 'Raleway', san-serif;
+}
+.body-contact {
+  display: flex;
+  background-color: grey;
+  text-align: center;
+}
+.events {
+  flex: 50%;
+  padding: 20px 20px;
+}
+.contact-us {
+  flex: 50%;
+  padding: 20px 10px;
+}
